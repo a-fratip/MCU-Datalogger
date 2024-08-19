@@ -1384,7 +1384,7 @@
         (effects (font (size 0.7 0.7) (thickness 0.1)))
       (tstamp 8194ed7b-f972-46bc-9c86-6cf2e8d654e6)
     )
-    (fp_text value "32.768 KHZ" (at 0.06 2.667 90) (layer "F.SilkS")
+    (fp_text value "32.768 KHZ" (at 0.06 2.413 90) (layer "F.SilkS")
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp f0319618-8c36-41c6-930b-145307471da7)
     )
@@ -2167,7 +2167,7 @@
     )
   )
 
-  (gr_rect (start 114.046 92.837) (end 119.38 96.139)
+  (gr_rect (start 114.046 92.71) (end 119.38 96.139)
     (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp 79aa83ed-e1b3-45b7-8a90-7e501b5e6124))
   (gr_arc (start 78.74 81.915) (mid 76.110887 76.960003) (end 81.687913 77.560835)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 1affc692-0468-4be8-8f5b-482447cfe6df))
